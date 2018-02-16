@@ -6,6 +6,10 @@
     <Authors>Mario Righi</Authors>
     <Company>LoneTech</Company>
     <Description>Pluralize or singularize any word. NET Standard 2.0 C#  Port of Blake Embrey's pluralize library for Javascript.</Description>
+    <Version>1.0.1</Version>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl>https://github.com/lonemario/LT.PluralizeEn</PackageProjectUrl>
+    <PackageLicenseUrl>https://choosealicense.com/licenses/mit/</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
