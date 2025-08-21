@@ -1,7 +1,7 @@
 # LT.PluralizeEn
 [![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg)](https://www.nuget.org/packages/LT.PluralizeEn)
 
-Pluralize or singularize any word. NET Standard 2.0 C#  Port of Blake Embrey's pluralize library for Javascript.
+Library which helps to pluralizing or singularizing any English word. NET Standard 2.0 C#  Port of Blake Embrey's pluralize library for Javascript.
 
 ## Prerequisites
 
