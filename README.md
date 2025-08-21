@@ -9,8 +9,6 @@ Pluralize or singularize any word. NET Standard 2.0 C#  Port of Blake Embrey's p
 
 ## Example 
 
-The SettingsManager must be initialized before use. Use Init(string initVector, string passPhrase, string user, string app) method. It is sufficient to initialize the class only once in the application
-
 ```c#
 using System;
 using LT.PluralizeEn;
@@ -37,6 +35,8 @@ namespace LT.PluralizeEn.ConsoleAppTest
     }
 }
 ```
+
+It respect Plural, Singular, Irregular and Uncountables rules.
 
 ### Authors
 
